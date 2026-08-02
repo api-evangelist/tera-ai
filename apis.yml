@@ -1,7 +1,26 @@
 aid: tera-ai
 name: Tera-ai
-description: Tera-ai is a company surfaced as a portfolio company of felicis and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Tera AI is a San Francisco-based robotics AI company (founded 2023, out
+  of stealth March 2025 with $7.8M seed co-led by Felicis and Inovia) that builds
+  the first unified, software-only spatial reasoning stack for camera-based mapping
+  and navigation across air, onroad, offroad, and sea platforms. Its foundation-model
+  approach delivers GPS-denied, manufacturer-interoperable autonomy that runs on a
+  robot's existing camera and onboard GPU. Tera publishes research (TARDIS/STRIDE)
+  and technical field results but does not currently expose a public developer API,
+  SDK, or documentation portal; this profile captures its public web, research, and
+  GitHub surface.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/67d165dc37ecc19b7a61d267/6a2665575f385abfe6047cc0_tera-open-graph-image.webp
 url: https://raw.githubusercontent.com/api-evangelist/tera-ai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +30,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Robotics
+- Artificial Intelligence
+- Autonomous Navigation
+- Spatial AI
+- Computer Vision
+- Foundation Models
+- Autonomy
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +48,19 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://tera-ai.com
+  url: https://www.tera-ai.com
+- type: Blog
+  url: https://www.tera-ai.com/blog
+- type: PrivacyPolicy
+  url: https://www.tera-ai.com/legal/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/tera-ai
+- type: LLMsTxt
+  url: llms/tera-ai-llms.txt
+- type: DomainSecurity
+  url: security/tera-ai-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1

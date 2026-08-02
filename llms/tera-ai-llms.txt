@@ -1,0 +1,32 @@
+﻿# Tera AI
+
+
+> Superhuman spatial reasoning for autonomy
+
+
+Tera AI is a San Francisco-based robotics AI company founded in 2023 that has developed the first unified spatial AI stack for camera-based mapping and navigation across multiple vehicle types including air, land, sea, and offroad platforms. The company came out of stealth in March 2025 with $7.8 million in seed funding co-led by Inovia and was recognized in CB Insights' AI 100 list for 2026. The team includes researchers who contributed to Google's geospatial foundation models and the original diffusion model powering modern image generation AI.
+
+
+## Core Technology
+
+
+- [Main Homepage](https://www.tera-ai.com/): Overview of the unified spatial AI stack for cross-domain autonomy, demonstrating camera-based GPS-denied navigation across air (quadcopters, helicopters, fixed-wing), onroad (rideshare, delivery), offroad (ground vehicles), and sea (surface vessels) platforms
+- [Universal Navigation for Every Moving Robot](https://www.tera-ai.com/blog/universal-navigation-for-every-moving-robot): Technical deep-dive explaining how foundation models enable software-only, domain-agnostic navigation that scales across platforms without hardware-specific customization or GPS dependency, addressing limitations of classical approaches like visual odometry and traditional map matching
+- [Pushing the Limits of Visual Navigation in Ultra-Sparse Environments](https://www.tera-ai.com/blog/pushing-the-limits-of-visual-navigation-in-ultra-sparse-environments): Field test results from the Ocotillo desert demonstrating ultra-low altitude flights (under 100 feet AGL) with less than 30 meters positional error across entire flights, running real-time on limited compute with narrow FOV cameras in feature-sparse terrain
+
+
+## Research and Publications
+
+
+- [TARDIS STRIDE Research Paper](https://www.tera-ai.com/blog/tardis): Introduction to the 1 billion-parameter spatio-temporal world model and STRIDE dataset with 131,000 panoramic StreetView images permuted into 3.6 million unique trajectories, demonstrating controllable photorealistic synthesis, state-of-the-art georeferencing within 10 meters, and 77% valid autonomous self-control on unseen streets
+- [Technical Blog](https://www.tera-ai.com/blog): Collection of technical articles covering visual navigation breakthroughs, universal navigation architecture, world modeling for autonomy, and real-world validation results across multiple platforms and environments
+
+
+## Optional
+
+
+- [Partnership Information](https://www.tera-ai.com/partnership): Information for OEMs and robotics companies interested in integrating the spatial AI navigation stack, emphasizing day-1 deployment with existing cameras and onboard compute
+- [LinkedIn Company Page](https://www.linkedin.com/company/foundation-model-startup): Team updates, career opportunities including ML Systems Engineer, 3D Computer Vision Researcher, and Forward Deployed Engineer roles in San Diego and San Francisco
+
+
+Last updated: Wednesday, June 10, 2026
